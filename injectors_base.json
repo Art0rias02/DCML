@@ -1,0 +1,15 @@
+[
+    {
+        "tag": "Memory_default",
+        "type": "Memory"
+    },
+    {
+        "tag": "Memory",
+        "type": "Memory",
+        "items_for_loop": 12345678
+    },
+    {
+        "tag": "SSD_default",
+        "type": "SSD"
+    }
+]
